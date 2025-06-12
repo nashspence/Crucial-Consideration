@@ -1,9 +1,3 @@
-## Minimal Formalism
-
-Below is a concise setup capturing the key novel aspects: **(a)** utilities that evolve as a function of incoming signals, and **(b)** a “self-defeat” metric for actions whose future continuation might be judged negative by a later utility.
-
----
-
 ### 1. Histories and Beliefs
 
 - **Histories:**  
